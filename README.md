@@ -5,7 +5,6 @@ Aclaraciones:
 
 El contenido de la web cumple con lo dictado en los puntos A y B del trabajo práctico número 1. 
 A su vez la información proporcionada es mayoritariamente ficticia.
-
-La inteligencia artifial usada para asistir el trabajo fue perplexity.ai
+La inteligencia artificial usada para asistir el trabajo fue perplexity.ai
 
 
